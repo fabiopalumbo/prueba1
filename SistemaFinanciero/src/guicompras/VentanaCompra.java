@@ -24,7 +24,7 @@ import modulocore.Core;
 public class VentanaCompra extends javax.swing.JFrame {
 
     /**
-     * coreeee
+     * coreeeeee
      */
     private Core core;
 
