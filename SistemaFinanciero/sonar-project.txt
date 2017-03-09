@@ -1,5 +1,6 @@
+sonar.projectKey=SistemaFInanciero
+
 # Required metadata
- sonar.projectName=SistemaFInanciero
  sonar.projectName=SistemaFInanciero
  sonar.projectVersion=1.0
  
